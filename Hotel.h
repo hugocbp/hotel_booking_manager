@@ -2,7 +2,7 @@
 ** Program Name: Hotel Manager
 ** File Name: Hotel.h
 ** Purpose: Declares the header for the Hotel class
-** Author: Hugo Carlos Borges Pinto
+** Author: Hugo Carlos Borges Pinto (@hugocbp)
 ** Date: May 17, 2019
 */
 #ifndef HOTEL_H

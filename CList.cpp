@@ -2,7 +2,7 @@
 ** Program Name: Hotel Manager
 ** File Name: CList.cpp
 ** Purpose: Implements the CList circular linked list class
-** Author: Hugo Carlos Borges Pinto
+** Author: Hugo Carlos Borges Pinto (@hugocbp)
 ** Date: May 17, 2019
 */
 // ATTRIBUTION: Based on code from Data Structures & Algorithms in C++,

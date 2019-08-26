@@ -2,7 +2,7 @@
 ** Program Name: Hotel Tester
 ** File Name: hotelTester.h
 ** Purpose: Tests the Hotel Booking program
-** Author: Hugo Carlos Borges Pinto
+** Author: Hugo Carlos Borges Pinto (@hugocbp)
 ** Date: May 17, 2019
 */
 #include <chrono>

@@ -2,7 +2,7 @@
 ** Program Name: Hotel Manager
 ** File Name: CNode.h
 ** Purpose: Declares the header for the CNode class, a circular linked list node
-** Author: Hugo Carlos Borges Pinto
+** Author: Hugo Carlos Borges Pinto (@hugocbp)
 ** Date: May 17, 2019
 */
 // ATTRIBUTION: Based on code from Data Structures & Algorithms in C++,

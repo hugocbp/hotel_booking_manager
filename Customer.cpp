@@ -2,7 +2,7 @@
 ** Program Name: Hotel Manager
 ** File Name: Customer.cpp
 ** Purpose: Implements the Customer class methods
-** Author: Hugo Carlos Borges Pinto
+** Author: Hugo Carlos Borges Pinto (@hugocbp)
 ** Date: May 17, 2019
 */
 #include "Customer.h"
