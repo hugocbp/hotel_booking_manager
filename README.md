@@ -24,7 +24,7 @@ The goal of the algorithm was to book as many customer as possible from the prov
 
 For the rooms, a Circular Linked List was chosen since, after a customer is booked in a particular room, that room is the last one that should be looked into for the next customer. A Circular Linked List allows the best rotation of rooms and guaratees that the search for a room always starts from the room that has the highest chance of being free.
 
-Since the requirements determined that a customer must have its request satisfied even if they need beds in different rooms, the algorithm uses a transaction-like pattern while finding rooms. It takes the beds requested by the customer and tries to find the most optimal room configutation. If it can't, it starts finding separate rooms until all beds are fulfilled. If there are not enought beds, the transaction is rolled back and none of the rooms are checked.
+Since the requirements determined that a customer must have its request satisfied even if they need beds in different rooms, the algorithm uses a transaction-like pattern while finding rooms. It takes the beds requested by the customer and tries to find the most optimal room configutation. If it can't, it starts finding separate rooms until all beds are fulfilled. If there are not enough beds, the transaction is rolled back and none of the rooms are checked.
 
 The resulting success rate is very close to the most optimal rate possible given the file (it is low because the file has thousands of customers checking in on the same date while the hotel only has 290 beds).
 
