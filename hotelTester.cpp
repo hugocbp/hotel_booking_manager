@@ -117,7 +117,7 @@ void readFile(Hotel &h) {
 
     // Get day of the year for the date
     int checkInDay = dateConversion(stoi(day), stoi(month));
-    int checkOutDay = checkInDay + stoi(duration) - 1;
+    int checkOutDay = checkInDay + stoi(duration);
 
     clog << " | Duration: " << duration;
 
